@@ -1,0 +1,16 @@
+Spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://keyloggerpbl:lojUmy5q6cfWVfVo@cluster0.asi1z.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database : WebsiteLg
+      auto-index-creation : true
+
+
+
+server:
+  port : 8080
+
+
+
+
+
